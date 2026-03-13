@@ -1,4 +1,4 @@
-# Parlay Optimization Model
+# Multi-Event Outcome Optimization Model
 
 This repository contains a data‑driven sports analytics project that explores how to optimize multi‑leg outcomes across sporting events by evaluating probabilities and expected values.  The goal is to apply rigorous statistical methods to identify profitable combinations (parlays) in a research context—not to provide gambling advice.  By modelling individual game probabilities, converting bookmaker odds to implied probabilities, and calculating the expected value of combined outcomes, the model helps illustrate how pricing inefficiencies can compound across legs and which groupings merit further analysis.
 
