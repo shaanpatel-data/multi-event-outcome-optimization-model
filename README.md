@@ -6,7 +6,7 @@ This repository contains a data‑driven sports analytics project that explores 
 
 - **Probability modelling:** Build probabilistic models (e.g., logistic regression) to estimate the likelihood of individual game outcomes based on historical data and current information.
 - **Expected value calculation:** Convert American odds into implied probabilities, compute the expected value (EV) for each selection, and aggregate EV across multiple legs.
-- **Parlay optimization:** Enumerate combinations of outcomes, filter out correlated legs (e.g., same‑game picks), and rank parlays by joint probability and expected value.
+- **Multi-Event Outcome optimization:** Enumerate combinations of outcomes, filter out correlated legs (e.g., same‑game picks), and rank parlays by joint probability and expected value.
 - **Modular codebase:** Structured into packages (`src/optimizer`, `src/models`, `src/utils`) with clear separation of concerns and docstrings.
 - **Reproducible scripts:** Command‑line scripts in the `scripts/` folder for data acquisition, model training, and parlay generation.
 - **Extensible tests:** Placeholder unit tests in the `tests/` directory that demonstrate how to validate key functionality with `pytest`.
